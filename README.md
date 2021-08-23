@@ -2,3 +2,6 @@
 
 Projeto "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc" do bootcamp Banco Carrefour Data Engineer da Digital Innovation One. 
  
+Executado upload dos arquivos:
+- resultado_part-00000
+- resultado.txt
